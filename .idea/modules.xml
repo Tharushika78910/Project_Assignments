@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Orientation_Task_1_3/Orientation_Task_1_3.iml" filepath="$PROJECT_DIR$/Orientation_Task_1_3/Orientation_Task_1_3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Orientation_Task_1_4/Orientation_Task_1_4.iml" filepath="$PROJECT_DIR$/Orientation_Task_1_4/Orientation_Task_1_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Orientation_Task_3/Orientation_Task_3.iml" filepath="$PROJECT_DIR$/Orientation_Task_3/Orientation_Task_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Orientation_Task_1_3/Orientation_Task_3_2/Orientation_Task_3_2.iml" filepath="$PROJECT_DIR$/Orientation_Task_1_3/Orientation_Task_3_2/Orientation_Task_3_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Orientation_Task_3__2/Orientation_Task_3__2.iml" filepath="$PROJECT_DIR$/Orientation_Task_3__2/Orientation_Task_3__2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Project_Assignments.iml" filepath="$PROJECT_DIR$/Project_Assignments.iml" />
     </modules>
   </component>
